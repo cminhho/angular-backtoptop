@@ -3,7 +3,7 @@
 ## Usage
 
 ```
-bower install -g angular-boilerplate
+bower install -g angular-backtotop
 ```
 
 >
