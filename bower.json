@@ -1,0 +1,21 @@
+{
+  "name": "angular-backtoptop",
+  "version": "0.0.0",
+  "homepage": "https://github.com/cminhho/angular-backtoptop",
+  "authors": [
+    "cminhho <hmchung92@gmail.com>"
+  ],
+  "description": "\"Back to top\" directive link allows users to smoothly scroll back to the top of the page",
+  "main": "src/angular-backtotop.js",
+  "keywords": [
+    "back-to-top"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
