@@ -1,1 +1,30 @@
-# angular-backtoptop
+# angular-boilerplate
+
+## Usage
+
+```
+bower install -g angular-boilerplate
+```
+
+```
+<!doctype html>
+<html ng-app="myApp">
+<head>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.1.5/angular.min.js"></script>
+    <script src="js/angular-ui-router.min.js"></script>
+    <script>
+        var myApp = angular.module('myApp', ['ui.router']);
+        // For Component users, it should look like this:
+        // var myApp = angular.module('myApp', [require('angular-ui-router')]);
+    </script>
+    ...
+</head>
+<body>
+    ...
+</body>
+</html>
+```
+
+## License
+
+MIT
