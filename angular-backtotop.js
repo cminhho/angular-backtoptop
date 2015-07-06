@@ -14,7 +14,7 @@
    *
    */
   angular
-    .module('directive.backToTop', [])
+    .module('angular-backtoptop', [])
     .directive('backToTop', backToTop);
 
   /* @ngInject */
