@@ -11,7 +11,7 @@ bower install -g angular-backtotop
 <!doctype html>
 <html ng-app="myApp">
 <head>
-    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.1.5/angular.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.28/angular.min.js"></script>
     <script src="bower_components/angular-backtotop.min.js"></script>
     <script>
         var myApp = angular.module('myApp', ['angular-backtoptop']);
